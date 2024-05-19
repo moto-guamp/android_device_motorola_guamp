@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_guamp.mk
+    $(LOCAL_DIR)/infinity_guamp.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_guamp-user \
-    lineage_guamp-userdebug \
-    lineage_guamp-eng
+    infinity_guamp-user \
+    infinity_guamp-userdebug \
+    infinity_guamp-eng
